@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 bangcuuChuong 2 va 3
+=======
+in bang cuu chuong
+>>>>>>> bangcuuChuong2
